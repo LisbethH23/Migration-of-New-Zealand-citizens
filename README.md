@@ -12,6 +12,6 @@ The continent with the most migration of New Zealand citizens around the world i
 
 ### Finding 2:
 Excel graphs was filtered with the purpose to show only the arrivals of New Zealand citizens around the world, the Excel graphs showed us the differents arrivals of New Zealand citizens around the world in the selected years of 1993&2003 showing the country with most afluency ot NZ South Korea.
-
+![This is an image](
 
 
