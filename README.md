@@ -7,6 +7,10 @@ We have a large data of the migration on New Zealand citizens & Australians citi
 ![This is an image] (https://github.com/LisbethH23/Migration-of-New-Zealand-citizens/blob/main/NewZealand%20Citizens%20migration.png)
 
 ### Findings:
+### Finding 1:
+The continent with the most migration of New Zealand citizens around the world it Oceania and the country with the most number of citizens is Australia.
 
+### Finding 2:
+Excel graphs showed us the arrivals of New Zealand citizens around the world , in the selected years of 
 
 
